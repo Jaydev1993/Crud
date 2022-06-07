@@ -1,0 +1,12 @@
+Assignment - 
+Create a form with certain fields along with basic validations. On submit, add record in a table. The table should have one column named actions. In that column add these buttons - Edit and Delete. On same page there will be Add button on top which will open the same form to add a record. On click of Edit button open the same form with filled data and on submit update that particular record in the table. On click of delete, remove the particular record.
+Note: Use redux to store and update the data
+
+List of APIs -
+GET - https://reqres.in/api/users
+POST - https://reqres.in/api/users
+PUT - https://reqres.in/api/users/${userId}
+DELETE - https://reqres.in/api/users/${userId}
+
+Follow the below link to use reactstrap components - 
+https://reactstrap.github.io/
